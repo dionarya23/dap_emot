@@ -1,0 +1,13 @@
+{
+    "name": "dionarya6661/dap_emot",
+    "description": "Simple class to determine the output emoticon",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Dion Arya Pamungkas",
+            "email": "zonamp3metal@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
