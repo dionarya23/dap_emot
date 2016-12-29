@@ -1,6 +1,5 @@
 <?php
 
-namespace Dap_emot;
 /** Dap_emoticon
  * Create By Dion Arya Pamungkas, @DionArya_P
  * v -0.1 Beta
