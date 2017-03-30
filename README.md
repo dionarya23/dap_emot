@@ -16,14 +16,14 @@ echo $Dap_emot->emot('Tulisan Terdapat Emoticons :D :( :)');
 Ouput -> Tulisan Terdapat Emoticons 😃 😟 🙂
 ```
 
-##Kelebihan
+## Kelebihan
 
 * Emoticon berbentuk gambar langsung tanpa tag html <img
 * Cepat
 * Mudah Digunakan
 * Bisa dikombinasikan langsung dengan Parsedown
 
-##Library Kode Emotikon Terdapat 25 Emoticons
+## Library Kode Emotikon Terdapat 25 Emoticons
 
 * :) = happy
 * :( = sad
