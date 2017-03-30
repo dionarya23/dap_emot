@@ -1,13 +1,13 @@
-#Dap_emot PHP Library Emoticons
+# Dap_emot PHP Library Emoticons
 [![capture-20161229-211321.png](https://s24.postimg.org/3l9f34hj9/capture_20161229_211321.png)](https://postimg.org/image/7ue55aksh/)<br />
 Sebuah Library Php Untuk mengeluarkan sistem emoticon terdapat 25 emoticon, masih dalam tahap beta (uji coba)
 Terinspirasi dari Parsedown PHP,
 <br />
 Create By : Dion Arya Pamungkas <br />
-www.dioncyber.id <br />
+http://dionarya6661.github.io <br />
 @DionArya_P on twitter <br />
 
-##Cara Memakai
+## Cara Memakai
 
 Silahkan Letakan Dap_emot.php di folder yang dibutuhkan lalu :
 ```
