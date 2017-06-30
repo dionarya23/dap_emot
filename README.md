@@ -16,6 +16,35 @@ echo $Dap_emot->emot('Tulisan Terdapat Emoticons :D :( :)');
 Ouput -> Tulisan Terdapat Emoticons 😃 😟 🙂
 ```
 
+## Menjadikan sebagai library Codeigneter
+Dap_emot juga bisa dijadikan sebagai library framework php codeigneter<br/>
+Caranya: <br/>
+* Pertama silahkan download terlebih dahulu dap_emot.php
+* Kedua taruh dalam folder application/library
+* Dan yang terakhir panggil library tersebut kedalam sebuah controller
+
+````
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Welcome extends CI_Controller {
+
+	public function __construct(){
+		parent::__construct();
+		$this->load->library('dap_emot');
+	}
+```
+* Untuk Output 
+
+```
+echo $this->dap_emot->emot('Tulisan Terdapat Emoticons :D :( :)');
+Atau
+
+$text     = 'Tulisan Terdapat Emoticons :D :( :)';
+$textBaru = $this->dap_emot->emot('Tulisan Terdapat Emoticon :D :( :)');
+echo $textBaru;
+```
+
 ## Kelebihan
 
 * Emoticon berbentuk gambar langsung tanpa tag html <img
