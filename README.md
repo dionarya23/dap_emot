@@ -33,16 +33,15 @@ class Welcome extends CI_Controller {
 		parent::__construct();
 		$this->load->library('dap_emot');
 	}
-```
-* Untuk Output 
 
-````
+//Untuk Output
 echo $this->dap_emot->emot('Tulisan Terdapat Emoticons :D :( :)');
-Atau
 
+//atau
 $text     = 'Tulisan Terdapat Emoticons :D :( :)';
 $textBaru = $this->dap_emot->emot('Tulisan Terdapat Emoticon :D :( :)');
 echo $textBaru;
+
 ```
 
 ## Kelebihan
