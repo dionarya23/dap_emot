@@ -36,7 +36,7 @@ class Welcome extends CI_Controller {
 ```
 * Untuk Output 
 
-```
+````
 echo $this->dap_emot->emot('Tulisan Terdapat Emoticons :D :( :)');
 Atau
 
