@@ -25,8 +25,8 @@ Ouput -> Tulisan Terdapat Emoticons 😃 😟 🙂
 
 ## Library Kode Emotikon Terdapat 25 Emoticons
 
-<table class="w3-table-all">
-    <tr class="w3-teal">
+<table>
+    <tr>
       <th>Kode</th>
       <th>Nama</th>
       <th>Hasil</th>
