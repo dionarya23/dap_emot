@@ -26,157 +26,269 @@ Ouput -> Tulisan Terdapat Emoticons 😃 😟 🙂
 ## Library Kode Emotikon Terdapat 25 Emoticons
 
 <table>
-    <tr>
-      <th>Kode</th>
-      <th>Nama</th>
-      <th>Hasil</th>
-    </tr>
-    <tr>
-      <td>:)</td>
-      <td>happy</td>
-      <td>🙂</td>
-    </tr>
-    <tr>
-      <td>:(</td>
-      <td>sad</td>
-      <td>😟</td>
-    </tr>
-    <tr>
-      <td>:P</td>
-      <td>tongue</td>
-      <td>😛</td>
-    </tr>
-    
-    <tr>
-      <td>:D</td>
-      <td>grin</td>
-      <td>😃</td>
-    </tr>
-    
-    <tr>
-      <td>:O</td>
-      <td>wink</td>
-      <td>😮</td>
-    </tr>
-    
-     <tr>
-      <td>;)</td>
-      <td>kedip mata</td>
-      <td>😜</td>
-    </tr>
-    
-    <tr>
-      <td>B)</td>
-      <td>glasses</td>
-      <td>👓</td>
-    </tr>
-    
-    <tr>
-      <td>B|</td>
-      <td>subglasses</td>
-      <td>😎</td>
-    </tr>
-    
-    <tr>
-      <td>>:(</td>
-      <td>grumpy</td>
-      <td>😡</td>
-    </tr>
-    
-    <tr>
-      <td>:/</td>
-      <td>unsure</td>
-      <td>😐</td>
-    </tr>
-    
-    <tr>
-      <td>:'(</td>
-      <td>cry</td>
-      <td>😢</td>
-    </tr>
-    
-    <tr>
-      <td>#:)</td>
-      <td>devil</td>
-      <td>😈</td>
-    </tr>
-    
-    <tr>
-      <td>O:)</td>
-      <td>angel</td>
-      <td>😇</td>
-    </tr>
-    
-    <tr>
-      <td>:*</td>
-      <td>kiss</td>
-      <td>😘</td>
-    </tr>
-    
-    <tr>
-      <td><3</td>
-      <td>heart</td>
-      <td>💓</td>
-    </tr>
-    
-    <tr>
-    <td>^_^</td>
-    <td>kiki</td>
-    <td>😊</td>
-    </tr>
-    
-    <tr>
-    <td>-_-</td>
-    <td>squint</td>
-    <td>😑</td>
-    </tr>
-    
-    <tr>
-    <td>o.O</td>
-    <td>confused</td>
-    <td>😕</td>
-    </tr>
-    
-    <tr>
-    <td>>:O</td>
-    <td>upset</td>
-    <td>😣</td>
-    </tr>
-    
-    <tr>
-    <td>:v</td>
-    <td>yimyam</td>
-    <td><img src="https://static.xx.fbcdn.net/images/emoji.php/v6/ee4/1/16/PACMAN_2.png"> </td>
-    </tr>
-    
-    <tr>
-    <td>:3</td>
-    <td>curly lips</td>
-    <td>👄</td>
-    </tr>
-    
-    <tr>
-    <td>:|]</td>
-    <td>robot</td>
-    <td>👾</td>
-    </tr>
-    
-    <tr>
-    <td>(y)</td>
-    <td>like</td>
-    <td>👍</td>
-    </tr>
-    
-    <tr>
-    <td>:tai</td>
-    <td>poop</td>
-    <td>💩</td>
-    </tr>
-    
-    <tr>
-    <td>(;)</td>
-    <td>dislike</td>
-    <td>👎</td>
-    </tr>
-    
-  </table>
+
+<tbody>
+
+<tr>
+
+<th>Kode</th>
+
+<th>Nama</th>
+
+<th>Hasil</th>
+
+</tr>
+
+<tr>
+
+<td>:)</td>
+
+<td>happy</td>
+
+<td>🙂</td>
+
+</tr>
+
+<tr>
+
+<td>:(</td>
+
+<td>sad</td>
+
+<td>😟</td>
+
+</tr>
+
+<tr>
+
+<td>:P</td>
+
+<td>tongue</td>
+
+<td>😛</td>
+
+</tr>
+
+<tr>
+
+<td>:D</td>
+
+<td>grin</td>
+
+<td>😃</td>
+
+</tr>
+
+<tr>
+
+<td>:O</td>
+
+<td>wink</td>
+
+<td>😮</td>
+
+</tr>
+
+<tr>
+
+<td>;)</td>
+
+<td>kedip mata</td>
+
+<td>😜</td>
+
+</tr>
+
+<tr>
+
+<td>B)</td>
+
+<td>glasses</td>
+
+<td>👓</td>
+
+</tr>
+
+<tr>
+
+<td>B|</td>
+
+<td>subglasses</td>
+
+<td>😎</td>
+
+</tr>
+
+<tr>
+
+<td>>:(</td>
+
+<td>grumpy</td>
+
+<td>😡</td>
+
+</tr>
+
+<tr>
+
+<td>:/</td>
+
+<td>unsure</td>
+
+<td>😐</td>
+
+</tr>
+
+<tr>
+
+<td>:'(</td>
+
+<td>cry</td>
+
+<td>😢</td>
+
+</tr>
+
+<tr>
+
+<td>#:)</td>
+
+<td>devil</td>
+
+<td>😈</td>
+
+</tr>
+
+<tr>
+
+<td>O:)</td>
+
+<td>angel</td>
+
+<td>😇</td>
+
+</tr>
+
+<tr>
+
+<td>:*</td>
+
+<td>kiss</td>
+
+<td>😘</td>
+
+</tr>
+
+<tr>
+
+<td><3</td>
+
+<td>heart</td>
+
+<td>💓</td>
+
+</tr>
+
+<tr>
+
+<td>^_^</td>
+
+<td>kiki</td>
+
+<td>😊</td>
+
+</tr>
+
+<tr>
+
+<td>-_-</td>
+
+<td>squint</td>
+
+<td>😑</td>
+
+</tr>
+
+<tr>
+
+<td>o.O</td>
+
+<td>confused</td>
+
+<td>😕</td>
+
+</tr>
+
+<tr>
+
+<td>>:O</td>
+
+<td>upset</td>
+
+<td>😣</td>
+
+</tr>
+
+<tr>
+
+<td>:v</td>
+
+<td>yimyam</td>
+
+<td>![](https://static.xx.fbcdn.net/images/emoji.php/v6/ee4/1/16/PACMAN_2.png)</td>
+
+</tr>
+
+<tr>
+
+<td>:3</td>
+
+<td>curly lips</td>
+
+<td>👄</td>
+
+</tr>
+
+<tr>
+
+<td>:|]</td>
+
+<td>robot</td>
+
+<td>👾</td>
+
+</tr>
+
+<tr>
+
+<td>(y)</td>
+
+<td>like</td>
+
+<td>👍</td>
+
+</tr>
+
+<tr>
+
+<td>:tai</td>
+
+<td>poop</td>
+
+<td>💩</td>
+
+</tr>
+
+<tr>
+
+<td>(;)</td>
+
+<td>dislike</td>
+
+<td>👎</td>
+
+</tr>
+
+</tbody>
+
+</table>
