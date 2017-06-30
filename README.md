@@ -23,7 +23,7 @@ Caranya: <br/>
 * Kedua taruh dalam folder application/library
 * Dan yang terakhir panggil library tersebut kedalam sebuah controller
 
-````
+```
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
