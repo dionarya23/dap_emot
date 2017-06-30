@@ -236,7 +236,7 @@ Ouput -> Tulisan Terdapat Emoticons 😃 😟 🙂
 <td>yimyam</td>
 
 
-<td>![alt text](https://static.xx.fbcdn.net/images/emoji.php/v6/ee4/1/16/PACMAN_2.png "Logo Title Text 1")</td>
+<td><img src="https://static.xx.fbcdn.net/images/emoji.php/v6/ee4/1/16/PACMAN_2.png"></td>
 
 </tr>
 
