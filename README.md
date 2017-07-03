@@ -39,9 +39,9 @@ echo $this->dap_emot->emot('Tulisan Terdapat Emoticons :D :( :)');
 
 //atau
 $text     = 'Tulisan Terdapat Emoticons :D :( :)';
-$textBaru = $this->dap_emot->emot('Tulisan Terdapat Emoticon :D :( :)');
+$textBaru = $this->dap_emot->emot($text);
 echo $textBaru;
-
+Ouput -> Tulisan Terdapat Emoticons 😃 😟 🙂
 ```
 
 ## Kelebihan
