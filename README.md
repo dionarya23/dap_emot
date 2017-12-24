@@ -10,7 +10,7 @@ http://dionarya6661.github.io <br />
 ## Cara Memakai
 
 Silahkan Letakan Dap_emot.php di folder yang dibutuhkan lalu :
-```
+```php
 $Dap_emot = new Dap_emot();
 echo $Dap_emot->emot('Tulisan Terdapat Emoticons :D :( :)');
 Ouput -> Tulisan Terdapat Emoticons 😃 😟 🙂
@@ -23,7 +23,7 @@ Caranya: <br/>
 * Kedua taruh dalam folder application/library
 * Dan yang terakhir panggil library tersebut kedalam sebuah controller
 
-```
+```php
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
